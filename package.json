@@ -1,0 +1,12 @@
+{
+  "name": "kanasan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Khoa",
+  "license": "MIT",
+  "scripts": {
+    "dev": "theme watch --allow-live",
+    "push": "shopify theme push",
+    "pull": "shopify theme pull"
+  }
+}
